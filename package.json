@@ -1,18 +1,18 @@
 {
   "name": "reverselol",
   "description": "Easy reverse tunnel behind NAT",
-  "version": "2.0.2",
+  "version": "2.0.3",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git://github.com/dpkgsoft/reverse.lol"
+    "url": "git://github.com/mraliscoder/reverse.lol"
   },
-  "author": "DpkgSoft International Limited",
+  "author": "Sculk Ltd.",
   "contributors": [
     "Roman Shtylman <shtylman@gmail.com>",
     "Gert Hengeveld <gert@hichroma.com>",
     "Tom Coleman <tom@hichroma.com>",
-    "Eduard Ilin <eduard@dpkg.su>"
+    "Eduard Ilin <e.ilin@ruintech.ru>"
   ],
   "main": "./rlol.js",
   "bin": {

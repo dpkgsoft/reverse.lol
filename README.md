@@ -15,4 +15,4 @@ your url is: https://neat-crabs-care.reverse.lol
 ### Подробная информация доступна на [сайте](https://setup.reverse.lol)
 
 Основано на localtunnel. \
-Hosted by [DpkgSoft International Limited](https://dpkgsoft.com)
+Developed by [edwardcode](https://edwardcode.net/) and hosted by Sculk Ltd.
